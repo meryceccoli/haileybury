@@ -27,8 +27,8 @@ overflow: hidden;
     font-size: 30px;
 }
 .topnav a:hover {
-    background-color: antiquewhite;
-    color: black;
+    background-color: black;
+    color: antiquewhite;
 }
 h1 {
     text-align: center;
