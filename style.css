@@ -1,0 +1,19 @@
+.indexCSS {
+    background-color: rgb(185, 146, 113);
+}
+img {
+    display: block;
+    margin-right:auto;
+    margin-left: auto;
+    border-radius: 30px;
+    box-shadow: 10px 10px 8px grey;
+}
+p {
+    font-size: 40pt;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    text-align: center;
+
+}
+h1 {
+    text-align: center;
+}
