@@ -6,7 +6,7 @@ img {
     margin-right:auto;
     margin-left: auto;
     border-radius: 30px;
-    box-shadow: 10px 10px 8px grey;
+    box-shadow: 10px 10px 8px rgb(red, green, blue);
 }
 p {
     font-size: 40pt;
@@ -31,5 +31,31 @@ overflow: hidden;
     color: antiquewhite;
 }
 h1 {
+    text-align: center;
+}
+
+.row {
+    display: flex;
+}
+
+.column {
+    flex: 33.33%;
+    padding: 5px;
+}
+
+.column1 {
+    flex: 20%;
+    padding: 5px;
+    
+}
+
+.fblofo {
+    display: inline-block;
+    margin-left: auto;
+    margin-right: auto;
+    height: 50em;
+}
+
+#images{
     text-align: center;
 }
